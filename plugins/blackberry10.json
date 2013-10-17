@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"www/config.xml":{"/widget":{"<feature name=\"File\" value=\"File\" />":1,"<feature name=\"FileTransfer\" value=\"FileTransfer\" />":1}}},"installed_plugins":{"org.apache.cordova.file":{"PACKAGE_NAME":"bb10"},"org.apache.cordova.file-transfer":{"PACKAGE_NAME":"bb10"}},"dependent_plugins":{}}
